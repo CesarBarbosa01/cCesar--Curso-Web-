@@ -1,7 +1,12 @@
-const A = 1
-const B = 2
+let a = 10
+let b = 20
 
-const troca1 = (A + 1)
+let c = a
+a = b
+b = c
 
-console.log(A)
+console.log(a)
+console.log(b)
+
+
 
