@@ -4,6 +4,15 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+    {
+        "name": "atividade05",
+        "program": "${workspaceFolder}/exercicios/atividade05.js",
+        "request": "launch",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "type": "node"
+    },
         {
             "name": "atividade04",
             "program": "${workspaceFolder}/exercicios/atividade04.js",
