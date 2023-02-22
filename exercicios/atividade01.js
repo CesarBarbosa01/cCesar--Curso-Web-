@@ -1,12 +1,12 @@
-let a = 10
-let b = 20
+let a = 10;
+let b = 20;
 
-let c = a
-a = b
-b = c
+let c = a;
+a = b;
+b = c;
 
-console.log(a)
-console.log(b)
+console.log(a);
+console.log(b);
 
 
 
