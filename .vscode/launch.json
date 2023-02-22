@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "atividade04",
+            "program": "${workspaceFolder}/exercicios/atividade04.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "atividade03",
             "program": "${workspaceFolder}/exercicios/atividade03.js",
             "request": "launch",
