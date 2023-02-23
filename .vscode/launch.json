@@ -5,6 +5,33 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "atividade10",
+            "program": "${workspaceFolder}/exercicios/atividade10.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "atividade09",
+            "program": "${workspaceFolder}/exercicios/atividade09.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+    {
+        "name": "atividade08",
+        "program": "${workspaceFolder}/exercicios/atividade08.js",
+        "request": "launch",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "type": "node"
+    },
+        {
             "name": "atividade07",
             "program": "${workspaceFolder}/exercicios/atividade07.js",
             "request": "launch",
