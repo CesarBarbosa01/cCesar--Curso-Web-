@@ -6,8 +6,8 @@ console.log("Valor de B", b);
 let c = a;
 a = b;
 b = c;
-console.log("Valor atualizado de A:",a);
-console.log("Valor atualizado de B:",b);
+console.log("Valor atualizado de A:", a);
+console.log("Valor atualizado de B:", b);
 
 
 
